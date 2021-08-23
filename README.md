@@ -1,7 +1,7 @@
 <h1>Oi sou Matheus Araujo! 😊</h1>
 
 - 🐱‍💻Atualmente trabalhando na Automalógica
-- 💻Técnio em Informática(Loading...)
+- 💻Técnico em Informática(Loading...)
 - 📕Atualmente estuando Linguagens Web, Cmd(Dos) e Git
 
 <div>
