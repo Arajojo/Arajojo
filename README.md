@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
   <img align="right" alt="Rafa-yoda"height="140" width="180"src="https://i.pinimg.com/originals/a3/8a/40/a38a40c0af8cfdec294b0fb4553d6416.gif">
 </div>
    
