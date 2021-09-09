@@ -2,7 +2,7 @@
 
 - 🐱‍💻Atualmente trabalhando na Automalógica
 - 💻Técnico em Informática(Loading...)
-- 📕Atualmente estuando Linguagens Web, Cmd(Dos) e Git
+- 📕Atualmente estuando Linguagens Web
 
 <div>
   <a href="https://github.com/Arajojo">
