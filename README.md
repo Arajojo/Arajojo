@@ -1,7 +1,7 @@
 <h1>Oi sou Matheus Araujo! 😊</h1>
 
 - 💻Analista e desenvolvedor de softwares(Loading...)
-- 📕Atualmente estuando C# e Python
+- 📕Atualmente estuando C# .net
 
 <div>
   <a href="https://github.com/Arajojo">
