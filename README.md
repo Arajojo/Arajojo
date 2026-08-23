@@ -1,6 +1,6 @@
 <h1>Oi sou Matheus Araujo! 😊</h1>
 
-- 💻Analista e desenvolvedor de softwares, técnico em TI
+- 💻Analista e desenvolvedor de softwares, técnico em TI e automação industrial
 - 📕Atualmente estuando Segurança cibernética(Red Team)
 
  <div style="display: inline_block"><br>
